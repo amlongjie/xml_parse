@@ -55,3 +55,7 @@
 ### 2.3 DOM与SAX的出处
 * DOM解析是由w3c推荐提出的
 * SAX解析是由民间提出的
+
+### 2.4 DOM4J
+
+> http://dom4j.sourceforge.net/dom4j-1.6.1/
