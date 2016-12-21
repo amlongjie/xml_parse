@@ -61,3 +61,6 @@
 > http://dom4j.sourceforge.net/dom4j-1.6.1/
 
 
+### 2.5 XPATH
+
+> 关于XPATH的学习,参考阮一峰的文档:http://www.ruanyifeng.com/blog/2009/07/xpath_path_expressions.html
