@@ -32,7 +32,10 @@ public class Demo {
             Element student = (Element) students.item(i);
             String number = student.getAttribute("number");
             s.setNumber(number);
-            // 获得student下的所有孩子节点,包括空格一共七个
+            /*
+                获得student下的所有孩子节点,包括空格一共七个.
+                因为Node的实现里面有Text
+             */
             NodeList children = student.getChildNodes();
             for(int j=0; j < children.getLength(); j++){
                 Node node = children.item(j);
