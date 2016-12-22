@@ -27,13 +27,16 @@
 > DOM解析是将文档中的所有内容都一次性加载到内存,创建一棵dom树来记录对象之间的关系
 
 #### 包含的对象类型
-* document
+* Document
 * Element
 * Attribute
 * Test
-* Commons
+* Comment
+
 >  以上五个类都有共同的父类：Node
+
 #### 特点
+
 * 优点：方便进行操作(CRUD)
 * 缺点：非常消耗内存
 
