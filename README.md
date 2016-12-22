@@ -63,4 +63,4 @@
 
 ### 2.5 XPATH
 
-> 关于XPATH的学习,参考阮一峰的文档:http://www.ruanyifeng.com/blog/2009/07/xpath_path_expressions.html
+> http://www.lilongjie.com/2016/12/22/xpath%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0
